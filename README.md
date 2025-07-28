@@ -8,8 +8,7 @@ You can find more info in the course's webpage: https://cs50.harvard.edu/ai/2020
 ## Repository Structure
 This is the organisation of the repository:
 
-- **[datasets](https://github.com/alexduartehc/ISPL-Solution/tree/main/datasets)**: This directory contains all the datasets necessary to complete the applied exercises.
-- **[Exercises](https://github.com/alexduartehc/ISPL-Solution/tree/main/Exercises)**: This directory contains the solutions. Each topic has its own directory with the respective exercises. Each topic corresponds to a week of the course.
+- **[Exercises](https://github.com/alexduartehc/CS50-Intro-AI-Solutions/tree/main/Exercises)**: This directory contains the solutions. Each topic has its own directory with the respective exercises. Each topic corresponds to a week of the course.
 
 ## Disclaimer
 This solutions refere to the 2020's course exercises. 
